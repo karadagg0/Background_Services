@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackgroundServices_IHostedService", "BackgroundServices_IHostedService.csproj", "{4EA247A5-2B9F-4484-8B93-93DE19AAF84E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BgServicesHelper", "..\BgServicesHelper\BgServicesHelper.csproj", "{91AF1C88-CC35-4D18-A5C4-4DAC78FE32A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EA247A5-2B9F-4484-8B93-93DE19AAF84E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA247A5-2B9F-4484-8B93-93DE19AAF84E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA247A5-2B9F-4484-8B93-93DE19AAF84E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA247A5-2B9F-4484-8B93-93DE19AAF84E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AF1C88-CC35-4D18-A5C4-4DAC78FE32A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AF1C88-CC35-4D18-A5C4-4DAC78FE32A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AF1C88-CC35-4D18-A5C4-4DAC78FE32A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AF1C88-CC35-4D18-A5C4-4DAC78FE32A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DB8D922-EE56-4831-9BD8-36631D0F20E8}
+	EndGlobalSection
+EndGlobal
